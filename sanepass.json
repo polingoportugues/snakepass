@@ -1,0 +1,15 @@
+{
+  "name": "SnakePass",
+  "symbol": "SNAKE",
+  "description": "Token oficial do jogo SnakePass (Devnet)",
+  "image": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/snakepass.png",
+  "attributes": [],
+  "properties": {
+    "creators": [
+      { "address": "SEU_WALLET_ADDRESS_AQUI", "share": 100 }
+    ],
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/snakepass.png", "type": "image/png" }
+    ]
+  }
+}
