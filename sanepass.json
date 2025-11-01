@@ -6,7 +6,7 @@
   "attributes": [],
   "properties": {
     "creators": [
-      { "address": "SEU_WALLET_ADDRESS_AQUI", "share": 100 }
+      { "address": "BLpMhJ1aW6XdBKKwxjXhFif8RiCLuyCu6zHERaB6kGgB", "share": 100 }
     ],
     "files": [
       { "uri": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/snakepass.png", "type": "image/png" }
