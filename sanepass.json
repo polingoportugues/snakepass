@@ -2,14 +2,14 @@
   "name": "SnakePass",
   "symbol": "SNAKE",
   "description": "Token oficial do jogo SnakePass (Devnet)",
-  "image": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/snakepass.png",
+  "image": "https://raw.githubusercontent.com/polingoportugues/snakepass/main/snakepass.png",
   "attributes": [],
   "properties": {
     "creators": [
       { "address": "Hwr4AxxcuAgNUMgk8LjHDygtQxZbjJvW1iMoiDU9QaRj", "share": 100 }
     ],
     "files": [
-      { "uri": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/snakepass.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/polingoportugues/snakepass/main/snakepass.png", "type": "image/png" }
     ]
   }
 }
